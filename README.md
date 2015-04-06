@@ -1,2 +1,2 @@
-# MITx-6.00.1x
-MITx 6.00.1x
+# computer-science
+Course work for the edX course on computer science and programming using python
